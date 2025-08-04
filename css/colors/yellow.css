@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* layout */
+a {
+color: #fffc00;
+}
+
+p a {
+color: #fffc00;
+}
+
+.change-color {
+color: #fffc00;
+}
+
+/* buttons */
+.btn {
+background: #fffc00;
+}
+
+.btn.colored {
+background: #fffc00;
+}
+
+.btn.colored-2 .mask {
+background: #fffc00;
+}
+
+/* google maps */
+#g-map-zoom-in, #g-map-zoom-out {
+background: #fffc00;
+}
+
+/* contact form */
+@-webkit-keyframes glow {
+    0% {
+		border-color: #fffc00;
+		box-shadow: 0 0 5px rgba(255, 252, 0, .2), inset 0 0 5px rgba(255, 252, 0, .1);
+    }	
+    100% {
+		border-color: #fffc00;
+		box-shadow: 0 0 20px rgba(255, 252, 0, .6), inset 0 0 10px rgba(255, 252, 0, .4);
+    }
+}
+@-moz-keyframes glow {
+    0% {
+		border-color: #fffc00;
+		box-shadow: 0 0 5px rgba(255, 252, 0, .2), inset 0 0 5px rgba(255, 252, 0, .1);
+    }	
+    100% {
+		border-color: #fffc00;
+		box-shadow: 0 0 20px rgba(255, 252, 0, .6), inset 0 0 10px rgba(255, 252, 0, .4);
+    }
+}
+@-o-keyframes glow {
+    0% {
+		border-color: #fffc00;
+		box-shadow: 0 0 5px rgba(255, 252, 0, .2), inset 0 0 5px rgba(255, 252, 0, .1);
+    }	
+    100% {
+		border-color: #fffc00;
+		box-shadow: 0 0 20px rgba(255, 252, 0, .6), inset 0 0 10px rgba(255, 252, 0, .4);
+    }
+}
+@-ms-keyframes glow {
+    0% {
+		border-color: #fffc00;
+		box-shadow: 0 0 5px rgba(255, 252, 0, .2), inset 0 0 5px rgba(255, 252, 0, .1);
+    }	
+    100% {
+		border-color: #fffc00;
+		box-shadow: 0 0 20px rgba(255, 252, 0, .6), inset 0 0 10px rgba(255, 252, 0, .4);
+    }
+}
+@keyframes glow {
+    0% {
+		border-color: #fffc00;
+		box-shadow: 0 0 5px rgba(255, 252, 0, .2), inset 0 0 5px rgba(255, 252, 0, .1);
+    }	
+    100% {
+		border-color: #fffc00;
+		box-shadow: 0 0 20px rgba(255, 252, 0, .6), inset 0 0 10px rgba(255, 252, 0, .4);
+    }
+}
+
+/* skills */
+.expand { 
+background: #fffc00;
+}
+
+/* preloader */
+.dot-1 {
+background: #fffc00;
+}
+
+/* Styleswitch [DEMO only] */
+.options-head {
+background: #fffc00;
+}

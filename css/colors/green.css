@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* layout */
+a {
+color: #a4c639;
+}
+
+p a {
+color: #a4c639;
+}
+
+.change-color {
+color: #a4c639;
+}
+
+/* buttons */
+.btn {
+background: #a4c639;
+}
+
+.btn.colored {
+background: #a4c639;
+}
+
+.btn.colored-2 .mask {
+background: #a4c639;
+}
+
+/* google maps */
+#g-map-zoom-in, #g-map-zoom-out {
+background: #a4c639;
+}
+
+/* contact form */
+@-webkit-keyframes glow {
+    0% {
+		border-color: #a4c639;
+		box-shadow: 0 0 5px rgba(164, 198, 57, .2), inset 0 0 5px rgba(164, 198, 57, .1);
+    }	
+    100% {
+		border-color: #a4c639;
+		box-shadow: 0 0 20px rgba(164, 198, 57, .6), inset 0 0 10px rgba(164, 198, 57, .4);
+    }
+}
+@-moz-keyframes glow {
+    0% {
+		border-color: #a4c639;
+		box-shadow: 0 0 5px rgba(164, 198, 57, .2), inset 0 0 5px rgba(164, 198, 57, .1);
+    }	
+    100% {
+		border-color: #a4c639;
+		box-shadow: 0 0 20px rgba(164, 198, 57, .6), inset 0 0 10px rgba(164, 198, 57, .4);
+    }
+}
+@-o-keyframes glow {
+    0% {
+		border-color: #a4c639;
+		box-shadow: 0 0 5px rgba(164, 198, 57, .2), inset 0 0 5px rgba(164, 198, 57, .1);
+    }	
+    100% {
+		border-color: #a4c639;
+		box-shadow: 0 0 20px rgba(164, 198, 57, .6), inset 0 0 10px rgba(164, 198, 57, .4);
+    }
+}
+@-ms-keyframes glow {
+    0% {
+		border-color: #a4c639;
+		box-shadow: 0 0 5px rgba(164, 198, 57, .2), inset 0 0 5px rgba(164, 198, 57, .1);
+    }	
+    100% {
+		border-color: #a4c639;
+		box-shadow: 0 0 20px rgba(164, 198, 57, .6), inset 0 0 10px rgba(164, 198, 57, .4);
+    }
+}
+@keyframes glow {
+    0% {
+		border-color: #a4c639;
+		box-shadow: 0 0 5px rgba(164, 198, 57, .2), inset 0 0 5px rgba(164, 198, 57, .1);
+    }	
+    100% {
+		border-color: #a4c639;
+		box-shadow: 0 0 20px rgba(164, 198, 57, .6), inset 0 0 10px rgba(164, 198, 57, .4);
+    }
+}
+
+/* skills */
+.expand { 
+background: #a4c639;
+}
+
+/* preloader */
+.dot-1 {
+background: #a4c639;
+}
+
+/* Styleswitch [DEMO only] */
+.options-head {
+background: #a4c639;
+}

@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* layout */
+a {
+color: #b31217;
+}
+
+p a {
+color: #b31217;
+}
+
+.change-color {
+color: #b31217;
+}
+
+/* buttons */
+.btn {
+background: #b31217;
+}
+
+.btn.colored {
+background: #b31217;
+}
+
+.btn.colored-2 .mask {
+background: #b31217;
+}
+
+/* google maps */
+#g-map-zoom-in, #g-map-zoom-out {
+background: #b31217;
+}
+
+/* contact form */
+@-webkit-keyframes glow {
+    0% {
+		border-color: #b31217;
+		box-shadow: 0 0 5px rgba(179, 18, 23, .2), inset 0 0 5px rgba(179, 18, 23, .1);
+    }	
+    100% {
+		border-color: #b31217;
+		box-shadow: 0 0 20px rgba(179, 18, 23, .6), inset 0 0 10px rgba(179, 18, 23, .4);
+    }
+}
+@-moz-keyframes glow {
+    0% {
+		border-color: #b31217;
+		box-shadow: 0 0 5px rgba(179, 18, 23, .2), inset 0 0 5px rgba(179, 18, 23, .1);
+    }	
+    100% {
+		border-color: #b31217;
+		box-shadow: 0 0 20px rgba(179, 18, 23, .6), inset 0 0 10px rgba(179, 18, 23, .4);
+    }
+}
+@-o-keyframes glow {
+    0% {
+		border-color: #b31217;
+		box-shadow: 0 0 5px rgba(179, 18, 23, .2), inset 0 0 5px rgba(179, 18, 23, .1);
+    }	
+    100% {
+		border-color: #b31217;
+		box-shadow: 0 0 20px rgba(179, 18, 23, .6), inset 0 0 10px rgba(179, 18, 23, .4);
+    }
+}
+@-ms-keyframes glow {
+    0% {
+		border-color: #b31217;
+		box-shadow: 0 0 5px rgba(179, 18, 23, .2), inset 0 0 5px rgba(179, 18, 23, .1);
+    }	
+    100% {
+		border-color: #b31217;
+		box-shadow: 0 0 20px rgba(179, 18, 23, .6), inset 0 0 10px rgba(179, 18, 23, .4);
+    }
+}
+@keyframes glow {
+    0% {
+		border-color: #b31217;
+		box-shadow: 0 0 5px rgba(179, 18, 23, .2), inset 0 0 5px rgba(179, 18, 23, .1);
+    }	
+    100% {
+		border-color: #b31217;
+		box-shadow: 0 0 20px rgba(179, 18, 23, .6), inset 0 0 10px rgba(179, 18, 23, .4);
+    }
+}
+
+/* skills */
+.expand { 
+background: #b31217;
+}
+
+/* preloader */
+.dot-1 {
+background: #b31217;
+}
+
+/* Styleswitch [DEMO only] */
+.options-head {
+background: #b31217;
+}

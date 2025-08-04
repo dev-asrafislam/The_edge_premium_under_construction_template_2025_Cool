@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* layout */
+a {
+color: #c32aa3;
+}
+
+p a {
+color: #c32aa3;
+}
+
+.change-color {
+color: #c32aa3;
+}
+
+/* buttons */
+.btn {
+background: #c32aa3;
+}
+
+.btn.colored {
+background: #c32aa3;
+}
+
+.btn.colored-2 .mask {
+background: #c32aa3;
+}
+
+/* google maps */
+#g-map-zoom-in, #g-map-zoom-out {
+background: #c32aa3;
+}
+
+/* contact form */
+@-webkit-keyframes glow {
+    0% {
+		border-color: #c32aa3;
+		box-shadow: 0 0 5px rgba(195, 42, 163, .2), inset 0 0 5px rgba(195, 42, 163, .1);
+    }	
+    100% {
+		border-color: #c32aa3;
+		box-shadow: 0 0 20px rgba(195, 42, 163, .6), inset 0 0 10px rgba(195, 42, 163, .4);
+    }
+}
+@-moz-keyframes glow {
+    0% {
+		border-color: #c32aa3;
+		box-shadow: 0 0 5px rgba(195, 42, 163, .2), inset 0 0 5px rgba(195, 42, 163, .1);
+    }	
+    100% {
+		border-color: #c32aa3;
+		box-shadow: 0 0 20px rgba(195, 42, 163, .6), inset 0 0 10px rgba(195, 42, 163, .4);
+    }
+}
+@-o-keyframes glow {
+    0% {
+		border-color: #c32aa3;
+		box-shadow: 0 0 5px rgba(195, 42, 163, .2), inset 0 0 5px rgba(195, 42, 163, .1);
+    }	
+    100% {
+		border-color: #c32aa3;
+		box-shadow: 0 0 20px rgba(195, 42, 163, .6), inset 0 0 10px rgba(195, 42, 163, .4);
+    }
+}
+@-ms-keyframes glow {
+    0% {
+		border-color: #c32aa3;
+		box-shadow: 0 0 5px rgba(195, 42, 163, .2), inset 0 0 5px rgba(195, 42, 163, .1);
+    }	
+    100% {
+		border-color: #c32aa3;
+		box-shadow: 0 0 20px rgba(195, 42, 163, .6), inset 0 0 10px rgba(195, 42, 163, .4);
+    }
+}
+@keyframes glow {
+    0% {
+		border-color: #c32aa3;
+		box-shadow: 0 0 5px rgba(195, 42, 163, .2), inset 0 0 5px rgba(195, 42, 163, .1);
+    }	
+    100% {
+		border-color: #c32aa3;
+		box-shadow: 0 0 20px rgba(195, 42, 163, .6), inset 0 0 10px rgba(195, 42, 163, .4);
+    }
+}
+
+/* skills */
+.expand { 
+background: #c32aa3;
+}
+
+/* preloader */
+.dot-1 {
+background: #c32aa3;
+}
+
+/* Styleswitch [DEMO only] */
+.options-head {
+background: #c32aa3;
+}
